@@ -1,0 +1,2 @@
+id, name, glyph, color
+0, player, @, green
